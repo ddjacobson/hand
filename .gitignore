@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 *.pem
+todo.md
 
 # C extensions
 *.so

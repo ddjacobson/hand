@@ -1,0 +1,5 @@
+LOG = "[LOG]"
+SERVER = "[SERVER]"
+CLIENT = "[CLIENT]"
+CONNECT = "[CONNECT]"
+GAME = "[GAME]"
